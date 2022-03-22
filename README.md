@@ -1,5 +1,6 @@
 ### Hello there 👋
 
+
 <!-- ## DARK ## -->
 <!-- Stats
 [<img height="165em" src="https://github-readme-stats.vercel.app/api?username=devlucasandrade&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>](https://github.com/devlucasandrade#gh-dark-mode-only)
@@ -14,3 +15,11 @@
 -->
 <!-- langs -->
 [<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasandrade&layout=compact&langs_count=7&theme=default"/>](https://github.com/devlucasandrade#gh-light-mode-only)
+
+<!-- # - line -->
+<br />
+
+<!-- # - badge -->
+<div> 
+<a href="https://www.linkedin.com/in/zrfisaac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
