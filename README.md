@@ -3,9 +3,8 @@ Entrei na área de tecnologia como suporte, através da área de saúde no ano d
 
 - 🌱 Atualmente estudo **Dart, Flutter e JavaScript** para migrar de suporte para desenvolvimento.
 - 🔭 Estou desenvolvendo projetos pessoais, disponíveis nos repositórios, para colocar a mão na massa.
+<br>
 
-
----
 
 <h2> Minhas redes sociais </h2>
 <div>
@@ -19,11 +18,18 @@ Entrei na área de tecnologia como suporte, através da área de saúde no ano d
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
 </div>
+<br>
 
 
----
-
-<h2> Linguagens mais usadas </h2>
+<h2> Tecnologias e Linguagens </h2>
+<div>
+    <img src = 'https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>
+    <img src = 'https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
+    <img src = 'https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'>
+    
+</div>
+<br>
+<br>
 
 <!-- DARK -->
 [<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasandrade&layout=compact&langs_count=7&theme=github_dark"/>](https://github.com/devlucasandrade#gh-dark-mode-only)
