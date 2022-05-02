@@ -26,6 +26,7 @@ Entrei na área de tecnologia como suporte, através da área de saúde no ano d
     <img src = 'https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>
     <img src = 'https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
     <img src = 'https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'>
+    <img src = 'https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>
     
 </div>
 <br>
