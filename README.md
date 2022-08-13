@@ -1,7 +1,7 @@
 <h2> Olá, me chamo Lucas. </h2>
 Entrei na área de tecnologia como suporte, através da área de saúde no ano de 2008. De lá para cá tive atuei desde o suporte ao usuário até implantação e treinamento de equipes.
 
-- 🌱 Atualmente estudo **Dart, Flutter e JavaScript** para migrar de suporte para desenvolvimento.
+- 🌱 Atualmente estudo **Dart e Flutter** para migrar de suporte para desenvolvimento.
 - 🔭 Estou desenvolvendo projetos pessoais, disponíveis nos repositórios, para colocar a mão na massa.
 <br>
 
