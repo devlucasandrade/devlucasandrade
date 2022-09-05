@@ -32,14 +32,6 @@ Entrei na área de tecnologia como suporte, através da área de saúde no ano d
 <br>
 <br>
 
-<!-- DARK -->
-[<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasandrade&layout=compact&langs_count=7&theme=github_dark"/>](https://github.com/devlucasandrade#gh-dark-mode-only)
 
-<!-- LIGHT -->
-[<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasandrade&layout=compact&langs_count=7&theme=default"/>](https://github.com/devlucasandrade#gh-light-mode-only)
-
-<br>
-
-
-<h2> Meus repositórios estão logo abaixo </h2>
+<h2> Meus repositórios </h2>
 
