@@ -33,5 +33,5 @@ Entrei na área de tecnologia como suporte, através da área de saúde no ano d
 <br>
 
 
-<h2> Meus repositórios </h2>
+<h2> Meus repositórios em destaque </h2>
 
