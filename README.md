@@ -6,8 +6,8 @@
 <br>
 
 - 🔭 Sou voluntário no Projeto [Is It Safe?](https://isitsafe.com.br) desde Outubro/2022.
-- 🧠 Estou em aprendizado contínuo de **Flutter, **Dart**.
-- 📚 Sou leitor ávido de **Ficção Cinentífica**, **Fantasia** e **Ficção**. Mas também leio outros gêneros.Veja mais no meu perfil do [Skoob](https://www.skoob.com.br/usuario/5912917)
+- 🧠 Estou em aprendizado contínuo de **Flutter**, **Dart**.
+- 📚 Sou leitor ávido de **Ficção Cinentífica**, **Fantasia** e **Ficção**. Mas também leio outros gêneros. Veja mais no meu perfil do [Skoob](https://www.skoob.com.br/usuario/5912917)
 
 <br>
 
